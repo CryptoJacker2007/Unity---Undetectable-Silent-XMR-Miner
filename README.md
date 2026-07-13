@@ -1,2 +1,3 @@
-This File Is Designed To Be 100% Harmless And Does Zero Damage To Your Computer Or Hardware.
-Undetectable Special Unified Crypto Miner.
+UNITY Is A Precompiled Skelotonized version of xmrig designed to mine Monero/XMR on machines without being detected by either The Windows AV, or The Target Human. Unity works by abusing an obscuring technique that involves a my own custom packer, that is essentially designed to modify the structure of the file while still maintaining the exact properties. Making detections Nearly Impossible With Out an maintained AV. Unity also uses a Native Shellcode Injection Technique coded in C+.
+
+The Miner Is stripped of all unnecessary or dangerous features that could cause or even tickle a connection. The Last Most Noticable feature is the specialized tls/ssl mining technique that uses sni spoofing to hide network traffic effiently.
